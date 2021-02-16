@@ -1,0 +1,9 @@
+env
+.env
+*.pyc
+__ pycache __
+apps/*/migrations
+node_modules
+.DS_Store
+media
+db.sqlite3
